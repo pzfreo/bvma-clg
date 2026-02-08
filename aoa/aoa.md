@@ -178,6 +178,12 @@ The Management Committee may also remove a Director by resolution of a majority 
 
 (b) Such Members shall have no voting rights at General Meetings but shall otherwise be considered Members of the Company for the purposes of the Articles and the Companies Act.
 
+### **9A. Membership Application and Guarantee**
+
+(1) Every person applying for membership of the Company shall complete an application in such form as the Management Committee may prescribe, which shall include an undertaking to be bound by these Articles and to contribute up to £1 to the assets of the Company as required by Article 3.
+
+(2) Applications may be submitted and accepted by electronic means.
+
 ### **10\. Subscriptions and Termination**
 
 (1) Annual subscriptions shall be proposed by the Management Committee and approved by the AGM.
