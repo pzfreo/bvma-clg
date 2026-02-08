@@ -52,7 +52,7 @@ The liability of each member is limited to £1, being the amount that each membe
 
 The objects of the Company are to operate as a mutual association for the exclusive benefit of its Members by:
 
-(a) Providing Members with opportunities to develop and maintain standardised skills and expertise in violin and bow making;
+(a) Providing Members with opportunities to develop and maintain standardised skills and expertise in lutherie, including but not limited to the making and repair of violins, violas, cellos, double basses, and bows;
 
 (b) Facilitating the dissemination of technical information among Members and education of Members;
 
