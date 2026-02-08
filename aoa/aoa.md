@@ -18,6 +18,8 @@ In these Articles, unless the context requires otherwise:
 
 "**Articles**" means these articles of association;
 
+"**Association**" means the Company;
+
 "**Board**" or "**Directors**" means the legal board of directors of the Company as defined in Article 6;
 
 "**Management Committee**" means the operational body defined in Article 8;
