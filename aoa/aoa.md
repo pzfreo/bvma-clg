@@ -280,6 +280,8 @@ The Management Committee may also remove a Director by resolution of a majority 
 
 ### **21\. Borrowing Powers**
 
-(1) Subject to Article 21(2), the Directors may exercise all the powers of the Company to borrow money and to mortgage or charge its undertaking, property and assets (present and future), and to issue debentures and other securities, whether outright or as collateral security for any debt, liability or obligation of the Company or of any third party.
+(1) The Directors may borrow money on behalf of the Company, subject to the prior approval of the Management Committee, provided that the total borrowing of the Company shall not at any time exceed a limit set by ordinary resolution of the Members at a General Meeting.
 
-(2) The Directors shall not exercise the powers in Article 21(1) to incur any debt or grant any security without the prior approval of the Management Committee.
+(2) The Directors shall not mortgage, charge, or grant any security over the property or assets of the Company without the prior approval of the Members by ordinary resolution at a General Meeting.
+
+(3) The Company shall not guarantee or provide security for the debts or obligations of any third party.
