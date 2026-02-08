@@ -154,6 +154,16 @@ The Management Committee may also remove a Director by resolution of a majority 
 
 (6) Any fully subscribed Member of the Company is entitled to attend a Committee meeting provided they give seven days' notice to the Chairman. They may speak but not vote.
 
+### **8A. Company Secretary**
+
+(1) The Board may, but is not required to, appoint a Company Secretary for the purposes of the Act.
+
+(2) A Company Secretary appointed under this Article need not be a member of the Management Committee or a Member of the Company.
+
+(3) The Company Secretary shall be responsible for ensuring that the Company complies with its filing and record-keeping obligations under the Act, including the maintenance of statutory registers and the filing of returns at Companies House.
+
+(4) For the avoidance of doubt, the role of Company Secretary under this Article is distinct from the office of Secretary of the Management Committee elected under Article 8(1)(a).
+
 ## **PART 4: MEMBERSHIP**
 
 ### **9\. Classes of Membership**
