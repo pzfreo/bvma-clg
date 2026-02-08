@@ -222,6 +222,12 @@ The Management Committee may also remove a Director by resolution of a majority 
 
 (6) A proxy appointment may be revoked by the appointing Member by notice in Writing to the Secretary received before the commencement of the meeting, or by the Member attending the meeting in person.
 
+(7) If a quorum is not present within 30 minutes of the time appointed for a General Meeting:
+
+(a) If the meeting was called at the request of Members under Article 13(2), it shall be dissolved;
+
+(b) In any other case, it shall be adjourned to the same day, time, and place the following week (or such other date as the Chairman may determine, being not more than 28 days later), at which adjourned meeting the quorum shall be 10 Members present in person or by proxy.
+
 ## **PART 6: ADMINISTRATIVE ARRANGEMENTS**
 
 ### **15\. Electronic and Hybrid Meetings**
