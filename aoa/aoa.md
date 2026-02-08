@@ -210,7 +210,7 @@ The Management Committee may also remove a Director by resolution of a majority 
 
 ### **14\. Quorum and Voting**
 
-(1) The quorum for a General Meeting shall be 20 Members present in person or by proxy.
+(1) The quorum for a General Meeting shall be 20 Members present in person or by proxy, of whom at least 15 must be Full Members or Honorary Members entitled to vote.
 
 (2) Resolutions shall be decided by a show of hands. In the event of a tie, the Chairman shall have a casting vote.
 
