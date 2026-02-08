@@ -240,7 +240,7 @@ The Management Committee may also remove a Director by resolution of a majority 
 
 ### **16\. Financial Controls**
 
-(1) The Treasurer and/or Administrator shall pay all monies received into a current financial account in the name of the Association.
+(1) The Treasurer shall pay all monies received into a current financial account in the name of the Company. The Treasurer may delegate this duty to a named person approved by the Management Committee.
 
 (2) All withdrawals shall be approved by the Treasurer and one other Member appointed by the Committee.
 
