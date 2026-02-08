@@ -106,6 +106,26 @@ In pursuance of the Objects, the Company has the power to:
 
 (4) The Management Committee may at any time appoint additional members of the Committee to serve as Directors, provided they consent to act.
 
+### **7A. Vacation of Office by Directors**
+
+A Director shall cease to hold office if they:
+
+(a) Resign by written notice to the Company;
+
+(b) Are removed by ordinary resolution of the Members under section 168 of the Act;
+
+(c) Cease to be a member of the Management Committee and are not reappointed as a Director within 30 days;
+
+(d) Become prohibited by law from being a director;
+
+(e) Become bankrupt or make any arrangement or composition with their creditors generally;
+
+(f) Are, in the opinion of a registered medical practitioner treating them, physically or mentally incapable of acting as a director and may remain so for more than three months;
+
+(g) Are absent from three consecutive meetings of the Board without permission and the remaining Directors resolve that the office be vacated.
+
+The Management Committee may also remove a Director by resolution of a majority of the Committee members, provided that the number of Directors does not fall below three.
+
 ### **8\. The Management Committee**
 
 (1) The day-to-day affairs of the Association shall be managed by the "Management Committee," which shall comprise:
