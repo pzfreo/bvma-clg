@@ -216,6 +216,12 @@ The Management Committee may also remove a Director by resolution of a majority 
 
 (3) Amendments to these Articles require a Special Resolution (75% majority).
 
+(4) A Member may appoint another person as their proxy to attend, speak, and vote at a General Meeting on their behalf. A proxy need not be a Member of the Company.
+
+(5) The appointment of a proxy must be in Writing, signed by the appointing Member, and delivered to the Secretary no later than 48 hours before the time of the meeting.
+
+(6) A proxy appointment may be revoked by the appointing Member by notice in Writing to the Secretary received before the commencement of the meeting, or by the Member attending the meeting in person.
+
 ## **PART 6: ADMINISTRATIVE ARRANGEMENTS**
 
 ### **15\. Electronic and Hybrid Meetings**
