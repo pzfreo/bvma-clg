@@ -190,7 +190,23 @@ The Management Committee may also remove a Director by resolution of a majority 
 
 (2) If a Member is one month or more in arrears with their subscription, the Committee may, at its absolute discretion and having given prior warning, terminate the membership.
 
-(3) If a Member's conduct is deemed prejudicial to the interests of the Association, their membership shall be reviewed. The Member shall be invited to comment, after which the Committee may require them to resign.
+(3) If a Member's conduct is deemed prejudicial to the interests of the Association, the following procedure shall apply:
+
+(a) The Secretary shall give the Member written notice of the complaint, specifying the conduct in question;
+
+(b) The Member shall have not less than 21 days from the date of the notice to submit written representations to the Committee;
+
+(c) The Committee shall consider any representations received and may, if it thinks fit, invite the Member to attend a meeting of the Committee to be heard;
+
+(d) Following consideration of the matter, the Committee may by resolution:
+
+(i) take no further action;
+
+(ii) issue a written warning to the Member; or
+
+(iii) terminate the Member's membership by written notice, such termination to take effect 14 days after the notice is given;
+
+(e) A Member whose membership is terminated under this Article may appeal to the next General Meeting, whose decision shall be final.
 
 ### **11\. Use of Logo and Title**
 
