@@ -278,7 +278,7 @@ The Management Committee may also remove a Director by resolution of a majority 
 
 (b) Transferred to another body with objects similar to those of the Company, as determined by the Members at or before the time of dissolution.
 
-(3) **Distribution of Mutual Funds:** The remaining Surplus (Mutual Funds) shall be distributed among those persons who are Full Members, Honorary Members, or Associate Members at the time of dissolution, in proportion to their contribution or as the Members may determine.
+(3) **Distribution of Mutual Funds:** The remaining Surplus (Mutual Funds) shall be distributed among those persons who are Full Members or Associate Members at the time of dissolution and whose subscriptions are fully paid up, in proportion to the total subscriptions paid by each such person during the five years preceding dissolution, or as the Members may otherwise determine by ordinary resolution at or before the time of dissolution.
 
 ## **PART 8: ADMINISTRATIVE PROTECTIONS**
 
