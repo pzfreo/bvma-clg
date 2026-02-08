@@ -96,6 +96,14 @@ In pursuance of the Objects, the Company has the power to:
 
 (c) Contravene any other law or regulation.
 
+(5) If the Directors decline to implement a decision of the Management Committee under Article 6(4), the following procedure shall apply:
+
+(a) The Directors shall provide the Management Committee with written reasons for their decision within 14 days;
+
+(b) The Management Committee and Directors shall endeavour to resolve the matter by consultation, including, if appropriate, seeking independent legal or professional advice at the Company's expense;
+
+(c) If the matter is not resolved within 28 days of the Directors' written reasons, either the Directors or the Management Committee may refer the matter to a General Meeting of the Members, which shall determine the issue by ordinary resolution.
+
 ### **7\. Appointment of Directors**
 
 (1) The Directors shall be appointed by the Management Committee from amongst its elected members.
