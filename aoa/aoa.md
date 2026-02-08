@@ -38,9 +38,9 @@ In these Articles, unless the context requires otherwise:
 
 ### **3\. Liability of Members**
 
-The liability of each member is limited to £1, being the amount that each member undertakes to contribute to the assets of the Company in the event of its being wound up while they are a member or within one year after they cease to be a member, for:
+The liability of each Member is limited to £1, being the amount that each Member undertakes to contribute to the assets of the Company in the event of its being wound up while they are a Member or within one year after they cease to be a Member, for:
 
-(a) payment of the Company’s debts and liabilities contracted before they ceased to be a member,
+(a) payment of the Company's debts and liabilities contracted before they ceased to be a Member,
 
 (b) payment of the costs, charges and expenses of winding up, and
 
@@ -150,7 +150,7 @@ The Management Committee may also remove a Director by resolution of a majority 
 
 (5) The Committee may appoint a Vice Chairman and an Assistant Secretary from amongst its own number to serve for a term of one year.
 
-(6) Any fully subscribed member of the Company is entitled to attend a Committee meeting provided they give seven days’ notice to the Chairman. They may speak but not vote.
+(6) Any fully subscribed Member of the Company is entitled to attend a Committee meeting provided they give seven days' notice to the Chairman. They may speak but not vote.
 
 ## **PART 4: MEMBERSHIP**
 
@@ -170,15 +170,15 @@ The Management Committee may also remove a Director by resolution of a majority 
 
 (1) Annual subscriptions shall be proposed by the Management Committee and approved by the AGM.
 
-(2) If a member is one month or more in arrears with their subscription, the Committee may, at its absolute discretion and having given prior warning, terminate the membership.
+(2) If a Member is one month or more in arrears with their subscription, the Committee may, at its absolute discretion and having given prior warning, terminate the membership.
 
-(3) If a member’s conduct is deemed prejudicial to the interests of the Association, their membership shall be reviewed. The member shall be invited to comment, after which the Committee may require them to resign.
+(3) If a Member's conduct is deemed prejudicial to the interests of the Association, their membership shall be reviewed. The Member shall be invited to comment, after which the Committee may require them to resign.
 
 ### **11\. Use of Logo and Title**
 
 (1) The title and Logo of the Association must not be used for promotional material or to imply that a particular standard of quality has been achieved.
 
-(2) BVMA membership does not guarantee any professional standard. Therefore, neither the logo nor the mentioning of one’s membership should appear in any member’s promotional material, such as printed adverts, leaflets, flyers, letterheads, compliment slips, business cards, social media, and websites. Listings in directories can, for informative purposes, contain the fact that one is a member but only in the actual listing, not in any advert.
+(2) BVMA membership does not guarantee any professional standard. Therefore, neither the logo nor the mentioning of one's membership should appear in any Member's promotional material, such as printed adverts, leaflets, flyers, letterheads, compliment slips, business cards, social media, and websites. Listings in directories can, for informative purposes, contain the fact that one is a Member but only in the actual listing, not in any advert.
 
 ## **PART 5: DECISION MAKING BY MEMBERS (GENERAL MEETINGS)**
 
@@ -186,7 +186,7 @@ The Management Committee may also remove a Director by resolution of a majority 
 
 (1) The Company must hold an AGM in October of each year.
 
-(2) Notice of the AGM shall be given in writing to all members no less than 14 days before the meeting.
+(2) Notice of the AGM shall be given in writing to all Members no less than 14 days before the meeting.
 
 (3) The notice must contain the agenda. No other business (except with the Chairman’s permission) shall be transacted. Items for the agenda must reach the Secretary by the end of the month previous to the AGM.
 
@@ -198,7 +198,7 @@ The Management Committee may also remove a Director by resolution of a majority 
 
 ### **14\. Quorum and Voting**
 
-(1) The quorum for a General Meeting shall be 20 members present in person or by proxy.
+(1) The quorum for a General Meeting shall be 20 Members present in person or by proxy.
 
 (2) Resolutions shall be decided by a show of hands. In the event of a tie, the Chairman shall have a casting vote.
 
@@ -230,7 +230,7 @@ The Management Committee may also remove a Director by resolution of a majority 
 
 (1) The Treasurer and/or Administrator shall pay all monies received into a current financial account in the name of the Association.
 
-(2) All withdrawals shall be approved by the Treasurer and one other member appointed by the Committee.
+(2) All withdrawals shall be approved by the Treasurer and one other Member appointed by the Committee.
 
 ### **17\. Income, Property and Mutuality**
 
@@ -238,7 +238,7 @@ The Management Committee may also remove a Director by resolution of a majority 
 
 (2) All surpluses derived from the Company's activities shall be retained and carried forward exclusively for the benefit of the Members as a collective whole.
 
-(3) No portion of the income or property shall be paid or transferred directly or indirectly by way of dividend, bonus or otherwise howsoever by way of profit to the members of the Company, except as provided in Article 18\.
+(3) No portion of the income or property shall be paid or transferred directly or indirectly by way of dividend, bonus or otherwise howsoever by way of profit to the Members of the Company, except as provided in Article 18\.
 
 (4) Subject to Article 18, no part of the Company’s funds or property shall be applied for any purpose other than the benefit of the Members.
 
