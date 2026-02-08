@@ -286,7 +286,9 @@ The Management Committee may also remove a Director by resolution of a majority 
 
 (3) No portion of the income or property shall be paid or transferred directly or indirectly by way of dividend, bonus or otherwise howsoever by way of profit to the Members of the Company, except as provided in Article 18\.
 
-(4) Subject to Article 18, no part of the Company’s funds or property shall be applied for any purpose other than the benefit of the Members.
+(4) Subject to Article 18, no part of the Company's funds or property shall be applied for any purpose other than the benefit of the Members.
+
+(5) The Company is established as a mutual trading entity for the purposes of corporation tax. The Directors and the Management Committee shall conduct the Company's affairs so as to preserve its mutual trading status, including by maintaining proper separation between mutual trading income and any other income of the Company.
 
 ## **PART 7: WINDING UP**
 
@@ -300,7 +302,7 @@ The Management Committee may also remove a Director by resolution of a majority 
 
 (b) Transferred to another body with objects similar to those of the Company, as determined by the Members at or before the time of dissolution.
 
-(3) **Distribution of Mutual Funds:** The remaining Surplus (Mutual Funds) shall be distributed among those persons who are Full Members or Associate Members at the time of dissolution and whose subscriptions are fully paid up, in proportion to the total subscriptions paid by each such person during the five years preceding dissolution, or as the Members may otherwise determine by ordinary resolution at or before the time of dissolution.
+(3) **Distribution of Mutual Funds:** The remaining Surplus (Mutual Funds) shall be distributed among those persons who are Full Members or Associate Members at the time of dissolution, and any person who was a Full Member or Associate Member at any time during the five years preceding dissolution, in each case whose subscriptions were fully paid up at the time of their cessation of membership or at the time of dissolution (as applicable), in proportion to the total subscriptions paid by each such person during the five years preceding dissolution, or in such other proportions as the Members may determine by ordinary resolution at or before the time of dissolution, provided always that the Mutual Funds shall be distributed only among eligible Members and former Members as described in this Article.
 
 ## **PART 8: ADMINISTRATIVE PROTECTIONS**
 
