@@ -76,7 +76,7 @@ In pursuance of the Objects, the Company has the power to:
 
 (ii) Applied strictly in accordance with the terms of the grant;
 
-(c) Except as provided in 5(b), the Company shall decline contributions from non-members to strictly preserve its status as a mutual trading entity;
+(c) Except as provided in Article 5(b), the Company shall not solicit or accept voluntary contributions, sponsorships, or donations from non-members, in order to preserve its status as a mutual trading entity;
 
 (d) Do anything else which may be conveniently carried on in connection with the Objects.
 
