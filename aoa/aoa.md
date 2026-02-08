@@ -246,7 +246,15 @@ The Management Committee may also remove a Director by resolution of a majority 
 
 ### **18\. Dissolution and Distribution of Assets**
 
-(1) If upon the winding up or dissolution of the Company there remains, after the satisfaction of all its debts and liabilities, any property whatsoever ("the Surplus"), it shall be distinguished between **Mutual Funds** (derived from Member contributions) and **Non-Mutual Funds** (derived from grants or public funding). (2) **Distribution of Non-Mutual Funds:** Any Surplus identified as Non-Mutual Funds (including unspent grants) shall not be paid to or distributed among the Members of the Company. Instead, such funds shall be: (a) Returned to the original funder if required by the terms of the grant; or (b) Transferred to another body with objects similar to those of the Company, as determined by the Members at or before the time of dissolution. (3) **Distribution of Mutual Funds:** The remaining Surplus (Mutual Funds) shall be distributed among those persons who are Full Members, Honorary Members, or Associate Members at the time of dissolution, in proportion to their contribution or as the Members may determine.
+(1) If upon the winding up or dissolution of the Company there remains, after the satisfaction of all its debts and liabilities, any property whatsoever ("the Surplus"), it shall be distinguished between **Mutual Funds** (derived from Member contributions) and **Non-Mutual Funds** (derived from grants or public funding).
+
+(2) **Distribution of Non-Mutual Funds:** Any Surplus identified as Non-Mutual Funds (including unspent grants) shall not be paid to or distributed among the Members of the Company. Instead, such funds shall be:
+
+(a) Returned to the original funder if required by the terms of the grant; or
+
+(b) Transferred to another body with objects similar to those of the Company, as determined by the Members at or before the time of dissolution.
+
+(3) **Distribution of Mutual Funds:** The remaining Surplus (Mutual Funds) shall be distributed among those persons who are Full Members, Honorary Members, or Associate Members at the time of dissolution, in proportion to their contribution or as the Members may determine.
 
 ## **PART 8: ADMINISTRATIVE PROTECTIONS**
 
