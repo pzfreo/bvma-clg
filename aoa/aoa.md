@@ -164,9 +164,9 @@ In pursuance of the Objects, the Company has the power to:
 
 ### **13\. Extraordinary General Meetings (EGM)**
 
-(1) The Chairman may call an EGM on seven days' written notice.
+(1) The Chairman may call an EGM on 14 clear days' written notice.
 
-(2) The Secretary shall call an EGM on seven days' written notice upon receipt of a written request signed by any ten members.
+(2) The Secretary shall call an EGM on 14 clear days' written notice upon receipt of a written request signed by any ten Members.
 
 ### **14\. Quorum and Voting**
 
