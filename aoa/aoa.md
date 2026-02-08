@@ -36,7 +36,7 @@ In these Articles, unless the context requires otherwise:
 
 (2) **Trading Style:** The Company may, for all operational, promotional, or public-facing purposes, operate under the style "British Violin Making Association" or the abbreviation "BVMA."
 
-(3) **Compliance:** The Directors shall ensure that the full registered name of the Company appears on all documents where legally required under the Companies (Trading Disclosures) Regulations 2008, including cheques, orders for money or goods, business letters, and official websites.
+(3) **Compliance:** The Directors shall ensure that the full registered name of the Company appears on all documents where legally required.
 
 ### **3\. Liability of Members**
 
@@ -160,7 +160,7 @@ The Management Committee may also remove a Director by resolution of a majority 
 
 (2) A Company Secretary appointed under this Article need not be a member of the Management Committee or a Member of the Company.
 
-(3) The Company Secretary shall be responsible for ensuring that the Company complies with its filing and record-keeping obligations under the Act, including the maintenance of statutory registers and the filing of returns at Companies House.
+(3) The Company Secretary shall be responsible for ensuring compliance with the Company's statutory filing and record-keeping obligations under the Act.
 
 (4) For the avoidance of doubt, the role of Company Secretary under this Article is distinct from the office of Secretary of the Management Committee elected under Article 8(1)(a).
 
@@ -208,11 +208,9 @@ The Management Committee may also remove a Director by resolution of a majority 
 
 (e) A Member whose membership is terminated under this Article may appeal to the next General Meeting, whose decision shall be final.
 
-### **11\. Use of Logo and Title**
+### **11\. Use of Name, Logo, and Marks**
 
-(1) The title and Logo of the Association must not be used for promotional material or to imply that a particular standard of quality has been achieved.
-
-(2) BVMA membership does not guarantee any professional standard. Therefore, neither the logo nor the mentioning of one's membership should appear in any Member's promotional material, such as printed adverts, leaflets, flyers, letterheads, compliment slips, business cards, social media, and websites. Listings in directories can, for informative purposes, contain the fact that one is a Member but only in the actual listing, not in any advert.
+The Management Committee may make rules governing the use of the Company's name, logo, and marks by Members. Such rules may be adopted or amended by the Management Committee without requiring a Special Resolution.
 
 ## **PART 5: DECISION MAKING BY MEMBERS (GENERAL MEETINGS)**
 
@@ -268,7 +266,7 @@ The Management Committee may also remove a Director by resolution of a majority 
 
 (4) Voting at an Electronic or Hybrid meeting may be conducted by verbal assent, electronic poll, or a visible show of hands on camera, as the Chair may direct.
 
-(5) A notice calling an Electronic or Hybrid meeting must specify the access details (e.g., the web link or dial-in number) rather than a physical address. Where members exercise their right to attend a Management Committee meeting (under Article 8), the provision of a secure access link shall be deemed sufficient "accommodation" for the purposes of these Articles, regardless of the number of attendees.
+(5) A notice calling an Electronic or Hybrid meeting must specify the access details rather than a physical address.
 
 (6) If the electronic connection fails for a significant number of participants such that the meeting is no longer quorate, the meeting shall be adjourned.
 
@@ -286,9 +284,7 @@ The Management Committee may also remove a Director by resolution of a majority 
 
 (3) No portion of the income or property shall be paid or transferred directly or indirectly by way of dividend, bonus or otherwise howsoever by way of profit to the Members of the Company, except as provided in Article 18\.
 
-(4) Subject to Article 18, no part of the Company's funds or property shall be applied for any purpose other than the benefit of the Members.
-
-(5) The Company is established as a mutual trading entity for the purposes of corporation tax. The Directors and the Management Committee shall conduct the Company's affairs so as to preserve its mutual trading status, including by maintaining proper separation between mutual trading income and any other income of the Company.
+(4) The Company is established as a mutual trading entity for the purposes of corporation tax. The Directors and the Management Committee shall conduct the Company's affairs so as to preserve its mutual trading status, including by maintaining proper separation between mutual trading income and any other income of the Company.
 
 ## **PART 7: WINDING UP**
 
@@ -302,7 +298,13 @@ The Management Committee may also remove a Director by resolution of a majority 
 
 (b) Transferred to another body with objects similar to those of the Company, as determined by the Members at or before the time of dissolution.
 
-(3) **Distribution of Mutual Funds:** The remaining Surplus (Mutual Funds) shall be distributed among those persons who are Full Members or Associate Members at the time of dissolution, and any person who was a Full Member or Associate Member at any time during the five years preceding dissolution, in each case whose subscriptions were fully paid up at the time of their cessation of membership or at the time of dissolution (as applicable), in proportion to the total subscriptions paid by each such person during the five years preceding dissolution, or in such other proportions as the Members may determine by ordinary resolution at or before the time of dissolution, provided always that the Mutual Funds shall be distributed only among eligible Members and former Members as described in this Article.
+(3) **Distribution of Mutual Funds:** The remaining Surplus (Mutual Funds) shall be distributed as follows:
+
+(a) The eligible recipients shall be those persons who are Full Members or Associate Members at the time of dissolution, and any person who was a Full Member or Associate Member at any time during the five years preceding dissolution, in each case whose subscriptions were fully paid up at the time of their cessation of membership or at the time of dissolution (as applicable);
+
+(b) Distribution shall be in proportion to the total subscriptions paid by each eligible recipient during the five years preceding dissolution, unless the Members determine otherwise by ordinary resolution at or before the time of dissolution;
+
+(c) The Mutual Funds shall be distributed only among eligible recipients as described in this Article and no other person or body.
 
 ## **PART 8: ADMINISTRATIVE PROTECTIONS**
 
