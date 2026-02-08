@@ -331,3 +331,13 @@ The Management Committee may also remove a Director by resolution of a majority 
 (2) The Directors shall not mortgage, charge, or grant any security over the property or assets of the Company without the prior approval of the Members by ordinary resolution at a General Meeting.
 
 (3) The Company shall not guarantee or provide security for the debts or obligations of any third party.
+
+### **22\. Model Articles**
+
+The model articles of association for private companies limited by guarantee contained in Schedule 2 of the Companies (Model Articles) Regulations 2008 (SI 2008/3229) shall not apply to the Company except insofar as they are consistent with these Articles and relate to matters not otherwise provided for herein.
+
+### **23\. Notices**
+
+(1) Any notice required to be given under these Articles may be given in Writing by post, by hand, or by electronic means (including email) to the address or email address last notified by the Member to the Company.
+
+(2) A notice sent by post shall be deemed to have been received 48 hours after posting. A notice sent by electronic means shall be deemed to have been received on the day it was sent.
